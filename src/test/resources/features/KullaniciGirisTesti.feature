@@ -1,5 +1,5 @@
 Feature: Kullanici test otomasyonu sayfasına giriş testi
-  @WIP
+
   Scenario: Kullanici test otomasyonu sayfasına kayıtlı mail ve şifre ile girebilmeli
 
     Given Kullanici test otomasyonu anasayfaya gider
